@@ -1,5 +1,5 @@
 {
-  "name": "full-stack-review",
+  "name": "blog-posts",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,6 @@
   "proxy": "http://localhost:7000",
   "nodemonConfig": {
     "ext": "js,sql",
-    "ignore": ["src/*", "__instructor-code__"]
+    "ignore": ["src/*"]
   }
 }
